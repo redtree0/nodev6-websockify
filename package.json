@@ -1,0 +1,24 @@
+
+{
+  "name": "nodev6-websockify",
+  "version": "0.1.0",
+  "description": "node-websockify is a WebSocket-to-TCP proxy/bridge you can use in a NodeJS program",
+  "author": { "name": "redtree" },
+  "contributors": [
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/redtree0/nodev6-websockify.git"
+  },
+  "main": "./websockify.js",
+  "dependencies": {
+    "ws": ">=0.4.27"
+  },
+  "scripts": {
+  },
+  "engines": { "node": ">= 0.4.0" },
+  "licenses": [ {
+    "type": "Apache-2.0",
+    "url": "http://www.apache.org/licenses/" 
+  } ],
+}
